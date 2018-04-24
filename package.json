@@ -1,50 +1,4 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "viewsaurus",
-        "scope": null,
-        "escapedName": "viewsaurus",
-        "name": "viewsaurus",
-        "rawSpec": "",
-        "spec": "latest",
-        "type": "tag"
-      },
-      "/Users/pawan.venugopal/Documents/dev/pkvenu.github.io"
-    ]
-  ],
-  "_from": "viewsaurus@latest",
-  "_id": "viewsaurus@0.4.0",
-  "_inCache": true,
-  "_location": "/viewsaurus",
-  "_nodeVersion": "5.5.0",
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/viewsaurus-0.4.0.tgz_1460393302245_0.1626430165488273"
-  },
-  "_npmUser": {
-    "name": "kwhinnery",
-    "email": "kevin.whinnery@gmail.com"
-  },
-  "_npmVersion": "3.3.12",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "viewsaurus",
-    "scope": null,
-    "escapedName": "viewsaurus",
-    "name": "viewsaurus",
-    "rawSpec": "",
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "https://registry.npmjs.org/viewsaurus/-/viewsaurus-0.4.0.tgz",
-  "_shasum": "57e716d55992f1eb9a0a710b189d8c003a81f11f",
-  "_shrinkwrap": null,
-  "_spec": "viewsaurus",
-  "_where": "/Users/pawan.venugopal/Documents/dev/pkvenu.github.io",
   "author": {
     "name": "Twilio Developer Education"
   },
@@ -100,12 +54,11 @@
       "email": "kevin.whinnery@gmail.com"
     }
   ],
-  "name": "viewsaurus",
+  "name": "viewsaurus-ringcentral",
   "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TwilioDevEd/viewsaurus.git"
+    "url": "git+https://github.com/tylerlong/viewsaurus.git"
   },
   "scripts": {
     "test": "tape test | faucet"

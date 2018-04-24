@@ -11,3 +11,5 @@ node_modules
 .idea/
 node_modules/
 
+yarn-error.log
+package-lock.json
